@@ -11,6 +11,10 @@ body {
 
 /* Add styles here! */
 
+html {
+  line-height: 1.75rem;
+}
+
 strong {
   color:  hsl(160deg, 100%, 30%);
 }
@@ -32,6 +36,10 @@ header {
 
 .intro-chunk > * {
   margin-bottom: 3rem;
+}
+
+.intro-chunk p {
+  font-size:  1.25rem;
 }
 
 main {
